@@ -8,6 +8,8 @@ services:
       POSTGRES_DB: page_chat_production
     volumes:
       - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U postgres -d page_chat_production"]
       interval: 5s
