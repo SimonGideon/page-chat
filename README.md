@@ -30,10 +30,34 @@ Admins can manage books, authors, categories, members, uploaded files, and moder
 
 ## Screenshots
 
-<p align="center">
-  <img width="48%" alt="Page Chat reading view" src="https://github.com/user-attachments/assets/bcc37bcd-76ea-4ca8-addb-51793a79bfcf" />
-  <img width="48%" alt="Page Chat profile" src="https://github.com/user-attachments/assets/78be5fa7-f61f-4cc1-b106-f397d635c0cd" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Reading Experience</strong>
+    </td>
+    <td width="50%" align="center">
+      <strong>User Profile</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img
+        width="100%"
+        height="360"
+        alt="Page Chat reading view"
+        src="https://github.com/user-attachments/assets/bcc37bcd-76ea-4ca8-addb-51793a79bfcf"
+      />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img
+        width="100%"
+        height="360"
+        alt="Page Chat profile"
+        src="https://github.com/user-attachments/assets/78be5fa7-f61f-4cc1-b106-f397d635c0cd"
+      />
+    </td>
+  </tr>
+</table>
 
 ## Core Features
 
